@@ -13,11 +13,11 @@ Data: The primary dataset used for this analysis is the  containing detailed inf
 
 Excel - [Download here] (https://microsoft.com)
       
-      - Data Cleaning
-      - Pivot Table
-      - chart
-      - report Analysis
-      - Dashboard Creation
+  - Data Cleaning
+  - Pivot Table
+  - chart
+  - report Analysis
+  - Dashboard Creation
 
 **Data Cleaning**
 
